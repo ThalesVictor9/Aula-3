@@ -1,0 +1,39 @@
+html{background-color: white;
+    padding: 2px;
+}
+body{
+    background-color: rgb(109, 73, 73);
+    border: 5px solid black;
+    padding: 20px;
+}
+h1{
+    font-family: Arial;
+    text-align: center;
+    color: black;
+}
+h2{font-family: Arial;
+    text-align: justify;
+    color: black;
+}
+h3{font-family: Arial;
+    text-align: justify;
+    color: black;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+    padding: 10px;
+    border: 2px solid black;
+    color: black;
+   
+}
+a{
+    color: cyan;
+    float: right;
+    margin-top: 280px;
+}
+img{
+    width: 700px;
+    height: 300px;
+}
+
